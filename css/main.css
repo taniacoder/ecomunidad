@@ -1,0 +1,165 @@
+/* Inserta tu codigo aqui */
+header {
+	background-image: url("../img/semilla.jpg");
+	background-repeat: no-repeat;
+	height: 530px;
+} 
+.menu {
+	background: #fff;	
+	padding-top: 15px;
+	text-align: center;
+}
+.logo {
+	width: 100px;
+}
+header nav ul{
+	list-style: none;
+}
+header nav ul li {
+	float: left;
+	padding: 40px 10px;
+}
+header nav ul li a {
+	height: 23px;
+	padding-right: 30px;
+	border-right: 1px solid #585858;
+	display: inline-block;
+	text-decoration: none;
+	color: #585858;
+
+}
+header nav ul li a:hover{
+	color: #000000;
+}
+/*INTRO*/
+.intro {
+	background: #ccc;
+	padding: 50px 0;
+}
+.intro p {
+	text-align: center;
+}
+.mision {
+	padding: 50px;
+	text-align: center;
+}
+
+/*METODO*/
+.man {
+	padding: 0;
+	background-image: url("../img/metodo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 380px;
+}
+.metodo .fondo{
+	padding: 0;
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 380px;
+}
+.col-6.fondo {
+	text-align: center;
+	padding: 80px 40px;
+}
+.fondo img,.fondo h3,.fondo p {
+	padding-bottom: 10px;
+	color: white;
+}
+.servicios {
+	text-align: center;
+	margin-top: 50px ;
+}
+.servicios .row {
+	padding-bottom: 50px;
+}
+.servicios h3{
+	padding-bottom: 20px;
+}
+/*FOND GREEN*/
+.bg-green{
+	padding: 50px 0;
+}
+.bg-green img{
+	width: 400px;
+}
+.bg-green h2 {
+	padding-top: 70px;
+}
+/*Equipo*/
+.equipo {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.equipo .col-6 {
+	text-align: center;
+
+}
+.circle img {
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
+.equipo p {
+	padding:5px 50px 20px;
+}
+.equipo a img {
+	width: 30px;
+	height: 30px;
+}
+/*BLOG*/
+.blog {
+	background-image: url("../img/fondo2.jpg");
+	
+}
+.blog .container-fluid {
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+/*VER ESTO DESPUES :(*/
+
+}
+.blog .col-4 {
+	padding-left: 20px;
+
+}
+.blog img {
+	margin: auto;
+	width:300px;
+	height:200px;
+}
+/*BIG GRAY*/
+.bg-gray {
+	background: grey;
+	height: 350px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.bg-gray {
+	padding: 50px 60px;
+}
+.bg-gray .row {
+	border: 1px white solid;
+	height: 250px;
+	padding: 0;
+	margin: 0;
+}
+.bg-gray .col-3 {
+	border: 1px solid white;
+	height: 250px;
+}
+.box-white {
+	padding: 20px;
+}
+.box-white img {
+	width: 40px;
+	margin-left: 136px;
+	margin-top: 145px;
+}
+/*FOOTER*/
+footer {
+	padding: 50px 80px;
+}
